@@ -1,4 +1,5 @@
 require 'test/unit'
+
 class Bacon
 	def self.saved?
 		false
